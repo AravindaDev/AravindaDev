@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AravindaDev
 - 👀 I’m interested in Javascript, Nodejs, JavaScript Frameworks, CSS and CSS frameworks
 - 🌱 I’m currently learning DevOps, MicroServices Architecture
-- 💞️ I’m looking to collaborate on React, Express, NodeJS
+- 💞️ I’m looking to collaborate on React, NextJS, Express, NodeJS.
 - 📫 How to reach me - aravinda.g@gmail.com
 
 <!---
